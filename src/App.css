@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.App-header {
+  opacity: .8;
+  font-size: 5em;
+  color: turquoise;
+}
+
+.Word {
+  font-size: 4em;
+  opacity: .75;
+  cursor: pointer;
+}
