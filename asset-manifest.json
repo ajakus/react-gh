@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajakus/react-gh/static/css/main.9e0da80e.css",
+    "main.js": "/ajakus/react-gh/static/js/main.db83de2b.js",
+    "static/js/787.f7eb3560.chunk.js": "/ajakus/react-gh/static/js/787.f7eb3560.chunk.js",
+    "index.html": "/ajakus/react-gh/index.html",
+    "main.9e0da80e.css.map": "/ajakus/react-gh/static/css/main.9e0da80e.css.map",
+    "main.db83de2b.js.map": "/ajakus/react-gh/static/js/main.db83de2b.js.map",
+    "787.f7eb3560.chunk.js.map": "/ajakus/react-gh/static/js/787.f7eb3560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0da80e.css",
+    "static/js/main.db83de2b.js"
+  ]
+}
