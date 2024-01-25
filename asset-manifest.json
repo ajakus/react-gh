@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ajakus/react-gh/static/css/main.bcd4122b.css",
-    "main.js": "/ajakus/react-gh/static/js/main.d9a6fc3d.js",
-    "static/js/787.38ed8b1a.chunk.js": "/ajakus/react-gh/static/js/787.38ed8b1a.chunk.js",
-    "index.html": "/ajakus/react-gh/index.html",
-    "main.bcd4122b.css.map": "/ajakus/react-gh/static/css/main.bcd4122b.css.map",
-    "main.d9a6fc3d.js.map": "/ajakus/react-gh/static/js/main.d9a6fc3d.js.map",
-    "787.38ed8b1a.chunk.js.map": "/ajakus/react-gh/static/js/787.38ed8b1a.chunk.js.map"
+    "main.css": "/react-gh/static/css/main.bcd4122b.css",
+    "main.js": "/react-gh/static/js/main.168606bb.js",
+    "static/js/787.38ed8b1a.chunk.js": "/react-gh/static/js/787.38ed8b1a.chunk.js",
+    "index.html": "/react-gh/index.html",
+    "main.bcd4122b.css.map": "/react-gh/static/css/main.bcd4122b.css.map",
+    "main.168606bb.js.map": "/react-gh/static/js/main.168606bb.js.map",
+    "787.38ed8b1a.chunk.js.map": "/react-gh/static/js/787.38ed8b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcd4122b.css",
-    "static/js/main.d9a6fc3d.js"
+    "static/js/main.168606bb.js"
   ]
 }
