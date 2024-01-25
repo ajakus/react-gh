@@ -1,7 +1,7 @@
 {
   "name": "reactbasiconcepts",
   "version": "0.1.0",
-  "homepage": "https://github.com/ajakus/react-gh",
+  "homepage": "https://ajakus.github.io/react-gh",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
